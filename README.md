@@ -1,12 +1,12 @@
-#VK BOT созданный на node js
+# VK BOT созданный на node js
 
-##install Botact (for bot)
+## install Botact (for bot)
 
 ```sh
 $npm install botact --save
 ```
 
-##install another
+## install another
 
 ```sh
 $npm install express --save
@@ -18,6 +18,6 @@ or
 $npm i express body-parser --save
 ```
 
-##Так же потребуется локальный сервер (используется ngrok)
+## Так же потребуется локальный сервер (используется ngrok)
 
 используется под портом 80
