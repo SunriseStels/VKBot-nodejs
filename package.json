@@ -1,0 +1,26 @@
+{
+  "name": "vkbot-nodejs",
+  "version": "1.0.0",
+  "description": "Используется официальная библиотека с сайта vk Для корректной работы требуется версия API 5:80 и выше!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunriseStels/VKBot-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunriseStels/VKBot-nodejs/issues"
+  },
+  "homepage": "https://github.com/SunriseStels/VKBot-nodejs#readme",
+  "dependencies": {
+    "@vkontakte/vkui-connect": "^1.1.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "lowdb": "^1.0.0",
+    "node-vk-bot-api": "^2.4.1"
+  }
+}
